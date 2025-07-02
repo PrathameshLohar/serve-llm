@@ -89,7 +89,7 @@ Open the URL shown in output to access your chatbot.
 
 Here’s a glimpse of the Streamlit UI in action:
 
-![LLaMA 2 Textbook Chatbot Screenshot](assests\streamlit-demo-cloufare-app.png)
+![LLaMA 2 Textbook Chatbot Screenshot](assests/streamlit-demo-cloufare-app.png)
 
 
 ## 💬 Example Prompt
